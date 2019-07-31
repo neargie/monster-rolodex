@@ -30,7 +30,7 @@ class App extends Component {
       <div className="App">
         <h1>Monster Rolodex</h1>
         <SearchBox
-          placeholder='search field'
+          placeholder='  search field'
           handleChange={e=> this.setState({searchField: e.target.value})}
         />
         <CardList monsters = {filterMonster}/>
