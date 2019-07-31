@@ -2,7 +2,7 @@
   "name": "monster-roldex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://neargie.github.io/monster-rolodex/",
+  "homepage": "https://neargie.github.io/monster-rolodex/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
